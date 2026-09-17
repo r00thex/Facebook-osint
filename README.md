@@ -5,10 +5,6 @@
 </p>
 
 <p align="center">
-  <img src="assets/MetaScan_Demo.png" title="Meta Scan Demo" alt="Meta Scan Demo" width="600"/>
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Python-3.8+-3776AB?logo=python&logoColor=white" alt="Python version">
   <img src="https://img.shields.io/badge/RapidAPI-API-blue?logo=rapidapi&logoColor=white" alt="RapidAPI">
   <img src="https://img.shields.io/badge/License-MIT-green?logo=open-source-initiative&logoColor=white" alt="License">
@@ -174,5 +170,3 @@ If you like this tool, consider buying me a coffee:
 <p align="center">
   <b>Automate OSINT processes</b><br>
   New <b>Enterprise Mode</b> – Maltego-inspired interface with visual graphs and professional workflows.<br>
-  <a href="https://hackunderway.io/new-update-to-our-osint-platform-hack-underway/" target="_blank">📢 See what's new</a>
-</p>
