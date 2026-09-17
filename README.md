@@ -97,7 +97,7 @@ Example file:
 git clone https://github.com/r00thex
 ```
 ```bash
-cd fb_scan
+cd Facebook-osint
 ```
 ```bash
 pip install -r requirements.txt
