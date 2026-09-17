@@ -47,10 +47,6 @@ Meta Scan uses the following API:
 3. Get your **API Key** from the RapidAPI dashboard.
 4. Copy your API Key.
 
-<p align="center">
-  <img src="assets/MetaScan_Help.png" title="Meta Scan" alt="Meta Scan" width="600"/>
-</p>
-
 # ⚙️ Configuration
 
 You can set your API key at any time with:
@@ -61,11 +57,6 @@ python3 fn_scan.py --set-api
 
 Your key will be automatically saved in:
 `.env`
-
-<p align="center">
-  <img src="assets/MetaScan_Api.png" title="Meta Scan" alt="Meta Scan" width="600"/>
-</p>
-
 ---
 
 # 💻 Usage
@@ -85,14 +76,8 @@ python3 fb_scan.py -u riatadental --out-json ./reports
 ### 🔹 Donate
 
 ```bash
-python3 fb_scan.py --donate
+python3 fb_scan.py --donat
 ```
-
-<p align="center">
-  <img src="assets/MetaScan_Donate.png" title="Meta Scan" alt="Meta Scan" width="600"/>
-</p>
-
----
 
 # 📁 Reports
 
@@ -109,7 +94,7 @@ Example file:
 # 📦 Installation
 
 ```bash
-git clone https://github.com/
+git clone https://github.com/r00thex
 ```
 ```bash
 cd fb_scan
