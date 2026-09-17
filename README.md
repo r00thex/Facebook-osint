@@ -60,7 +60,7 @@ Meta Scan uses the following API:
 You can set your API key at any time with:
 
 ```bash
-python3 meta_scan.py --set-api
+python3 fn_scan.py --set-api
 ```
 
 Your key will be automatically saved in:
@@ -77,19 +77,19 @@ Your key will be automatically saved in:
 ### 🔹 Single target (basic profile)
 
 ```bash
-python3 meta_scan.py -u riatadental
+python3 fb_scan.py -u riatadental
 ```
 
 ### 🔹 Save results to JSON (creates file in ./reports)
 
 ```bash
-python3 meta_scan.py -u riatadental --out-json ./reports
+python3 fb_scan.py -u riatadental --out-json ./reports
 ```
 
 ### 🔹 Donate
 
 ```bash
-python3 meta_scan.py --donate
+python3 fb_scan.py --donate
 ```
 
 <p align="center">
@@ -116,7 +116,7 @@ Example file:
 git clone https://github.com/
 ```
 ```bash
-cd meta_scan
+cd fb_scan
 ```
 ```bash
 pip install -r requirements.txt
@@ -157,16 +157,6 @@ pip install -r requirements.txt
 |BackBox| 9 | ✅ | Working   |
 |Arch Linux| 2026.08.01 | ✅ | Working   |
 
-# Support
-For questions, bug reports, or suggestions, please contact: info@hackunderway.com
-
-# 👨‍💻 Author
-
-* [Victor Bancayan](https://www.offsec.com/bug-bounty-program/) - (**CEO at [Hack Underway](https://hackunderway.io/)**) 
-
-### 💰 Bitcoin Donations
-Support the project with Bitcoin:
-
 ## ☕️ Support the project
 
 If you like this tool, consider buying me a coffee:
@@ -186,5 +176,3 @@ If you like this tool, consider buying me a coffee:
   New <b>Enterprise Mode</b> – Maltego-inspired interface with visual graphs and professional workflows.<br>
   <a href="https://hackunderway.io/new-update-to-our-osint-platform-hack-underway/" target="_blank">📢 See what's new</a>
 </p>
-
-[![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)](https://www.kali.org/)
