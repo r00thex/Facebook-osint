@@ -117,7 +117,7 @@ Example file:
 # 📦 Installation
 
 ```bash
-git clone https://github.com/HackUnderway/meta_scan.git
+git clone https://github.com/
 ```
 ```bash
 cd meta_scan
@@ -164,10 +164,6 @@ pip install -r requirements.txt
 # Support
 For questions, bug reports, or suggestions, please contact: info@hackunderway.com
 
-# License
-- [x] Instagram Detective is licensed.
-- [x] See the [LICENSE](https://github.com/HackUnderway/instagram_detective#MIT-1-ov-file) file for more information.
-
 # 👨‍💻 Author
 
 * [Victor Bancayan](https://www.offsec.com/bug-bounty-program/) - (**CEO at [Hack Underway](https://hackunderway.io/)**) 
@@ -186,23 +182,11 @@ For questions, bug reports, or suggestions, please contact: info@hackunderway.co
 ### 💰 Bitcoin Donations
 Support the project with Bitcoin:
 
-### Address:
-```bash
-bc1qjd5pu8kmdqljun3qyw5e9mj4kdef9n8sutj7j4
-```
-
-<p align="center"> <img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=bc1qjd5pu8kmdqljun3qyw5e9mj4kdef9n8sutj7j4" alt="Bitcoin QR"> </p>
-Thank you for your support! 🙏
-
 ## ☕️ Support the project
 
 If you like this tool, consider buying me a coffee:
 
 [![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/hackunderway)
-
-## 🌞 Subscriptions
-
-###### Subscribe to: [Jey Zeta](https://www.facebook.com/JeyZetaOficial/subscribe/)
 
 ---
 
