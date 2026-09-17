@@ -5,10 +5,6 @@
 </p>
 
 <p align="center">
-  <img src="assets/MetaScan.png" title="Meta Scan" alt="Meta Scan" width="600"/>
-</p>
-
-<p align="center">
   <img src="assets/MetaScan_Demo.png" title="Meta Scan Demo" alt="Meta Scan Demo" width="600"/>
 </p>
 
@@ -168,17 +164,6 @@ For questions, bug reports, or suggestions, please contact: info@hackunderway.co
 
 * [Victor Bancayan](https://www.offsec.com/bug-bounty-program/) - (**CEO at [Hack Underway](https://hackunderway.io/)**) 
 
-## 🔗 Links
-[![Patreon](https://img.shields.io/badge/patreon-000000?style=for-the-badge&logo=Patreon&logoColor=white)](https://www.patreon.com/c/HackUnderway)
-[![Web site](https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://hackunderway.com)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/HackUnderway)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@JeyZetaOficial)
-[![Twitter/X](https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/JeyZetaOficial)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hackunderway)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/JeyZeta)
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/hackunderway)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](https://profile.hackthebox.com/profile/019d59e8-fcc1-72e9-9aad-ff79f46d261d)
-
 ### 💰 Bitcoin Donations
 Support the project with Bitcoin:
 
@@ -203,7 +188,3 @@ If you like this tool, consider buying me a coffee:
 </p>
 
 [![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)](https://www.kali.org/)
-
-from <img src="https://i.imgur.com/ngJCbSI.png" title="Perú" width="20"/> Peru, made in <img src="https://i.imgur.com/NNfy2o6.png" title="Python" width="20"/> with <img src="https://i.imgur.com/S86RzPA.png" title="Love" width="20"/> by: Victor Bancayan
-
-© 2026
